@@ -90,9 +90,9 @@ export class Blog extends Component {
             comment = (
                 <>
                     <div className="entry-header">
-                        <h3><a href="#">Lorem ipsum dolor sit amet consectetur adipisicing elit</a></h3>
-                        <span className="date">June 26, 2014</span>
-                        <span className="cetagory">in <strong>Photography</strong></span>
+                            <h3><a href="#">GP location, location de voiture à la Reunion</a></h3>
+                            <span className="date">octobre, 2020</span>
+                            <span className="cetagory">in <strong>Projet à SAYNA Madagascar</strong></span>
                         </div>
                         <div className="entry-content">
                             <div className="entry-content">
@@ -142,9 +142,9 @@ export class Blog extends Component {
                             </div>
                             </div>
                             <div className="entry-header">
-                            <h3><a href="#">Lorem ipsum dolor sit amet consectetur adipisicing elit</a></h3>
-                            <span className="date">June 26, 2014</span>
-                            <span className="cetagory">in <strong>Photography</strong></span>
+                            <h3><a href="#">GP location, location de voiture à la Reunion</a></h3>
+                            <span className="date">octobre, 2020</span>
+                            <span className="cetagory">in <strong>Projet à SAYNA Madagascar</strong></span>
                             </div>
                             <div className="entry-content">
                                 <strong>Commentaire : </strong>
@@ -208,9 +208,9 @@ export class Blog extends Component {
                             </div>
                             </div>
                             <div className="entry-header">
-                            <h3><a href="#">Lorem ipsum dolor sit amet consectetur adipisicing elit</a></h3>
-                            <span className="date">June 26, 2014</span>
-                            <span className="cetagory">in <strong>Photography</strong></span>
+                            <h3><a href="#">GP location, location de voiture à la Reunion</a></h3>
+                            <span className="date">octobre, 2020</span>
+                            <span className="cetagory">in <strong>Projet à SAYNA Madagascar</strong></span>
                             </div>
                             <div className="entry-content">
                                 <strong>Commentaire : </strong>

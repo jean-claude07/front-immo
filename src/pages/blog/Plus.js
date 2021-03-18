@@ -64,9 +64,9 @@ export class Plus extends Component {
             comment = (
                 <>
                     <div className="entry-header">
-                        <h3><a href="#">Lorem ipsum dolor sit amet consectetur adipisicing elit</a></h3>
-                        <span className="date">June 26, 2014</span>
-                        <span className="cetagory">in <strong>Photography</strong></span>
+                        <h3><a href="#">MELODI , Projet personnel app de vente artistique et des reservation d' evenement </a></h3>
+                        <span className="date">janvier , 2021</span>
+                        <span className="cetagory">in <strong>Projet personnel</strong></span>
                         </div>
                         <div className="entry-content">
                             <div className="entry-content">
@@ -107,9 +107,9 @@ export class Plus extends Component {
                             </div>
                             </div>
                             <div className="entry-header">
-                            <h3><a href="#">Lorem ipsum dolor sit amet consectetur adipisicing elit</a></h3>
-                            <span className="date">June 26, 2014</span>
-                            <span className="cetagory">in <strong>Photography</strong></span>
+                            <h3><a href="#">MELODI , Projet personnel app de vente artistique et des reservation d' evenement </a></h3>
+                            <span className="date">janvier , 2021</span>
+                            <span className="cetagory">in <strong>Projet personnel</strong></span>
                             </div>
                             <div className="entry-content">
                                 <strong>Commentaire : </strong>
@@ -177,9 +177,9 @@ export class Plus extends Component {
                             </div>
                             </div>
                             <div className="entry-header">
-                            <h3><a href="#">Lorem ipsum dolor sit amet consectetur adipisicing elit</a></h3>
-                            <span className="date">June 26, 2014</span>
-                            <span className="cetagory">in <strong>Photography</strong></span>
+                            <h3><a href="#">MELODI , Projet personnel app de vente artistique et des reservation d' evenement </a></h3>
+                            <span className="date">janvier , 2021</span>
+                            <span className="cetagory">in <strong>Projet personnel</strong></span>
                             </div>
                             <div className="entry-content">
                                 <div className="entry-content">
